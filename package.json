@@ -1,0 +1,19 @@
+{
+  "name": "panellist",
+  "version": "0.0.0",
+  "description": "An end-user-configurable dashboard layout system for Mithril",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/panellist.git"
+  },
+  "author": "Barney Carroll <barney.carroll@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/panellist/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/panellist#readme"
+}
