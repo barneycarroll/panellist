@@ -1,5 +1,7 @@
 export default v => ({
-  view: fresh => { v = fresh },
+  view: fresh => {
+    v = fresh
+  },
 
   oninit({state}){
     state.window = window.open(...v.attrs.open)
